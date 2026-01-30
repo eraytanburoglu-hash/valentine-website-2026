@@ -44,7 +44,7 @@ const CONFIG = {
     loveMessages: {
         extreme: "OHMAGAWD Pookie Wookie really weally loves me :333333 >_< 🥰🚀💝",  // Shows when they go past 5000%
         high: "Yipee pookie loves me :33 🚀💝",              // Shows when they go past 1000%
-        normal: "Pookie doesn't love me 🥰"                           // Shows when they go past 100%
+        normal: "Pookie doesn't love me :("                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
